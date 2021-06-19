@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-![Jota Perez](https://yojota.cloud/jotaperez.jpg "Jota Perez")
----
-Soy un apasionado de la informática desde muy pequeño. Siempre he sido una persona muy curiosa y autodidacta. He participado en varios proyectos desde mi época de estudiante y luego de terminar mi carrera de grado. Tengo experiencia como SysAdmin, DevOps y como Coordinador de Equipos técnicos y administrativos
----
+> Soy un apasionado de la informática desde muy pequeño. Siempre he sido una persona muy curiosa y autodidacta. He participado en varios proyectos desde mi época de estudiante y luego de terminar mi carrera de grado. Tengo experiencia como SysAdmin, DevOps y como Coordinador de Equipos técnicos y administrativos
 
 ### ⚡ Relevant achievements
 - AWS APN Certification 
