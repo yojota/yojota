@@ -9,12 +9,12 @@
 
 ### ✔️ I'm currently learning
 - Kubernetes
-- Ansible
+- Improve my scripting in python
 - Azure
-- Git Actions
+- Github Actions
 
 ### 👩‍💻 I'm working on
-- Infracture in Azure for some client 
+- Onboarding in new company
 
 ### 💡 Goals for 2021
 - Certification in Azure/Terraform
@@ -24,7 +24,7 @@
 ### 🌴 Other Interest 
 - Read Book (Actually I'm reading "The morder of Pitagoras")
 - Play Video Games (PS4)
-- Watch Movie (finish the all list of nomination of Oscar's)
+- Watch Movie (Dine)
 
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/juan-francisco-perez-b0759632/">Juan Francisco Perez</a>
