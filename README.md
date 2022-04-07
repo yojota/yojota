@@ -9,22 +9,20 @@
 
 ### ✔️ I'm currently learning
 - Kubernetes
-- Improve my scripting in python
-- Azure
-- Github Actions
+- AWS Networking
 
 ### 👩‍💻 I'm working on
-- Onboarding in new company
+- Onboarding in new company Voolkia for Mercado Libre
 
-### 💡 Goals for 2021
-- Certification in Azure/Terraform
-- Participate in open source project
+### 💡 Goals for 2022
+- Implement server local kubernetes with friends
 - Improve my englsih
 
 ### 🌴 Other Interest 
 - Read Book (Actually I'm reading "The morder of Pitagoras")
-- Play Video Games (PS4)
-- Watch Movie (Dine)
+- Watch Movies
+- Go to bar with friends 
+- Play football and Ride Bike
 
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/juan-francisco-perez-b0759632/">Juan Francisco Perez</a>
