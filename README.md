@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-> Soy un apasionado de la informática desde muy pequeño. Siempre he sido una persona muy curiosa y autodidacta. He participado en varios proyectos desde mi época de estudiante y luego de terminar mi carrera de grado. Tengo experiencia como SysAdmin, DevOps y como Coordinador de Equipos técnicos y administrativos
-
-![Jota Perez GitHub stats](https://github-readme-stats.vercel.app/api?username=yojota&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yojota&layout=compact)
+> I've been passionate about computers since I was a kid. I have always been a very curious and self-taught person. I have participated in several projects since my time as a student and after finishing my degree. I have experience as SysAdmin, and SRE as Coordinator of Technical and Administrative Teams.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yojota&show_icons=true&theme=radical" />
