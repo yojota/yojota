@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> I've been passionate about computers since I was a kid. I have always been a very curious and self-taught person. I have participated in several projects since my time as a student and after finishing my degree. I have experience as SysAdmin, and SRE as Coordinator of Technical and Administrative Teams.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I've+been+passionate+about+computers+since+I+was+a+kid.+I+have+always+been+a+very+curious+and+self-taught+person;I+have+participated+in+several+projects+since+my+time+as+a+student+and+after+finishing+my+degree;+have+experience+as+SysAdmin%2C+and+SRE+as+Coordinator+of+Technical+and+Administrative+Teams.)](https://git.io/typing-svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yojota&show_icons=true&theme=radical" />
