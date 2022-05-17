@@ -2,7 +2,9 @@
 
 > Soy un apasionado de la informática desde muy pequeño. Siempre he sido una persona muy curiosa y autodidacta. He participado en varios proyectos desde mi época de estudiante y luego de terminar mi carrera de grado. Tengo experiencia como SysAdmin, DevOps y como Coordinador de Equipos técnicos y administrativos
 
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yojota&show_icons=true&theme=radical)
 ### ⚡ Relevant achievements
+
 - AWS APN Certification 
 - Promoved to intermediate English Language   
 - SRE Semi Senior
