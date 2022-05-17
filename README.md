@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&vCenter=true&width=401&height=100&lines=SysAdmin;DevOps;I'm+learning+always;Cloud)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&vCenter=true&width=401&height=100&lines=SysAdmin+Linux;DevOps;I'm+learning+always;Cloud+Engineer)](https://git.io/typing-svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yojota&show_icons=true&theme=radical" />
