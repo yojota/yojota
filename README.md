@@ -13,28 +13,28 @@
 
 - AWS APN Certification 
 - Promoved to intermediate English Language   
-- SRE Semi Senior
+- SRE Senior recentrly promoved
 
 ### ✔️ I'm currently learning
 - Kubernetes
 - AWS Networking
+- Python script with aws-bastion-cli
 
 ### 👩‍💻 I'm working on
-- Onboarding in new company Voolkia for Mercado Libre
+- I'm working in new company Voolkia for Mercado Libre as a DevOps Engineer
 
 ### 💡 Goals for 2022
 - Implement server local kubernetes with friends
 - Improve my englsih
 
 ### 🌴 Other Interest 
-- Read Book (Actually I'm reading "The morder of Pitagoras")
-- Watch Movies
+- Read Book (Actually I'm reading "Cuentos Completos - Jorge Luis Borges")
+- Watch Movies and Series
 - Go to bar with friends 
 - Play football and Ride Bike
 
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/juan-francisco-perez-b0759632/">Juan Francisco Perez</a>
 - Twitter: <a href = "https://twitter.com/yojota">yojota</a>
-- Website: <a href = "https://yojota.cloud">yojota.cloud</a>
 <br>
 <br>
