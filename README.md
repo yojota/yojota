@@ -36,5 +36,6 @@
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/juan-francisco-perez-b0759632/">Juan Francisco Perez</a>
 - Twitter: <a href = "https://twitter.com/yojota">yojota</a>
+- Email: yojota@gmail.com
 <br>
 <br>
