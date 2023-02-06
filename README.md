@@ -11,20 +11,20 @@
 ### ✔️ I'm currently learning
 - Kubernetes
 - AWS Networking
-- Python script with aws-bastion-cli
+- Ruby
 
 ### 👩‍💻 I'm working on
-- I'm working in new company Voolkia for Mercado Libre as a DevOps Engineer
+- I'm working in Voolkia for Mercado Libre as a DevOps Engineer
 
-### 💡 Goals for 2022
+### 💡 Goals for 2023
 - Implement server local kubernetes with friends
 - Improve my englsih
+- Learn about CD/CI with Codebuild and CodePipeline (AWS)
 
 ### 🌴 Other Interest 
 - Read Book (Actually I'm reading "Cuentos Completos - Jorge Luis Borges")
-- Watch Movies and Series
-- Go to bar with friends 
-- Play football and Ride Bike
+- Watch Movies and Series (almost nominated to oscars)
+- Play football and swining
 
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/juan-francisco-perez-b0759632/">Juan Francisco Perez</a>
