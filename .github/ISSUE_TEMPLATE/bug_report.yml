@@ -1,64 +1,66 @@
-name: Bug Report
+name: Reporte de Issue
 description: File a bug report.
-title: "[Bug]: "
-labels: ["bug", "triage"]
-projects: ["octo-org/1", "octo-org/44"]
+title: "Titulo descriptivo del issue"
+labels: ["bug", "issue"]
+projects: ["CDC", "DC v2"]
 assignees:
   - octocat
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Gracias por subir el reporte de error. Para ayudarnos a resolver el problema, por favor completa la siguiente información.
   - type: input
-    id: contact
+    id: id
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      label: ID Shield / ID Job LM / Other
+      description: por favor nos indicas si tienes una información para poder trackar el issue
+      placeholder: Por ejemplo ID Shield 123812
     validations:
-      required: false
+      required: true
   - type: textarea
     id: what-happened
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Nos puedes contar que sucedió?
+      description: Recordá que podes agregar imagenes y logs para ayudarnos a entender mejor el problema.
+      placeholder: Explicación del problema
+      value: "Tengo el siguiente problema..."
     validations:
       required: true
   - type: dropdown
     id: version
     attributes:
       label: Version
-      description: What version of our software are you running?
+      description: En que versión de CDC estas teniendo el problema
       options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+        - CDC (Default)
+        - DC v2 (Edge)
       default: 0
     validations:
       required: true
   - type: dropdown
-    id: browsers
+    id: where
     attributes:
-      label: What browsers are you seeing the problem on?
+      label: En que parte del flujo tuviste el problema
       multiple: true
       options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
+        - Automatización
+        - Shield
+        - Job LM
+        - Frontend
+        - Backend
+        - Otro
   - type: textarea
     id: logs
     attributes:
       label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      description: por favor si tienes logs o código que apoye al bug.
       render: shell
   - type: checkboxes
     id: terms
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com). 
+      label: Compromiso de Seguimiento
+      description: Recuerde que este es un compromiso de seguimiento del bug. 
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: Acepto acompañar al seguimiento de resolución de este bug como usuario
           required: true
