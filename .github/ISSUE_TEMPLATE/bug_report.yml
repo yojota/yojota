@@ -34,7 +34,7 @@ body:
       description: En que versión de CDC estas teniendo el problema
       options:
         - CDC (Default)
-        - DC v2 (Edge)
+        - DC v2
       default: 0
     validations:
       required: true
