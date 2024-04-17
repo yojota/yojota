@@ -4,7 +4,7 @@ title: "Titulo descriptivo del issue"
 labels: ["bug", "issue"]
 projects: ["CDC", "DC v2"]
 assignees:
-  - octocat
+  - ops-infra
 body:
   - type: markdown
     attributes:
@@ -56,6 +56,21 @@ body:
       label: Relevant log output
       description: por favor si tienes logs o código que apoye al bug.
       render: shell
+
+  - type: textarea
+    id: reproducir
+    attributes:
+      label: Pasos para Reproducir el problema
+      description: Necesitamos que por favor nos indiques de que manera podemos reproducir el problema. por ejemplo si el error es no poder cambiar un TTL, en el ttl puse letras o valor fuera de rango
+      render: shell
+
+  - type: textarea
+    id: esperado
+    attributes:
+      label: Comportamiento Esperado
+      description: Entender el comportamiento esperado
+      render: shell
+
   - type: checkboxes
     id: terms
     attributes:
