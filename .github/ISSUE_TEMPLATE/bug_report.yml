@@ -1,5 +1,5 @@
 name: Reporte de Issue
-description: File a bug report.
+description: Reportes de Issue.
 title: "Titulo descriptivo del issue"
 labels: ["bug", "issue"]
 projects: ["CDC", "DC v2"]
